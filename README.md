@@ -20,7 +20,7 @@ Run commands
 
 3) ```yarn run dev```
 
-## Setup Local Environment and Firebase Congig with Amazon
+## Setup Local Environment and Firebase Config with Amazon
 
 You need to setup a few keys for this project to be setup correctly otherwise you won't see any products or ... .
 
