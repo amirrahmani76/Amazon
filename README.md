@@ -32,9 +32,9 @@ For that, you can create a .env.local file in your project as [shown in docs](ht
 
 and in firebase.js you need add your firebaseConfig like this:
  
-  apiKey: '*************',
-  authDomain: '*************',
-  projectId: '*************',
-  storageBucket: '*************',
-  messagingSenderId: '*************',
-  appId: '*************'
+  apiKey: '',
+  authDomain: '',
+  projectId: '',
+  storageBucket: '',
+  messagingSenderId: '',
+  appId: ''
